@@ -24,4 +24,4 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+EDUCATIONAL PURPOSES
